@@ -1,3 +1,6 @@
+# ABOUT THIS BRANCH
+This branch is to experiment with dash-to-dock to experiment with adding an option that prevents maximized windows from appearing underneath the dock when "expand" is enabled.
+
 # Dash to Dock
 ![screenshot](https://github.com/micheleg/dash-to-dock/raw/master/media/screenshot.jpg)
 
